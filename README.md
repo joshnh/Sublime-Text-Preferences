@@ -1,4 +1,3 @@
-Sublime-Text-Preferences
-========================
+# Sublime Text Preferences
 
-My Preferences.sublime-settings file
+My Preferences.sublime-settings file.

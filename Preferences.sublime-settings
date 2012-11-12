@@ -6,7 +6,6 @@
     "ensure_newline_at_eof_on_save": true,
     "find_selected_text": true,
     "font_face": "Inconsolata",
-    "font_options": ["directwrite"],
     "font_size": 16,
     "highlight_line": true,
     "open_files_in_new_window": false,

@@ -7,6 +7,10 @@ __Default (OSX).sublime-keymap__
 * Keyboard shortcuts to close projects or toggle between them
 * Keyboard shortcuts to move the cursor the the start or end of the current line
 
+__Fetch.sublime-settings__
+
+* A list of the files and packages downloadable using Fetch
+
 __Package Control.sublime-settings__
 
 * A list of the packages installed through [Package Control](http://wbond.net/sublime_packages/package_control)

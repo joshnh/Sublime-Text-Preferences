@@ -3,6 +3,7 @@
     "caret_style": "phase",
     "color_scheme": "Packages/Dayle Rees Color Schemes/Mellow.tmTheme",
     "draw_minimap_border": true,
+    "draw_white_space": "selection",
     "ensure_newline_at_eof_on_save": true,
     "find_selected_text": true,
     "font_face": "Inconsolata",

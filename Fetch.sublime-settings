@@ -1,12 +1,12 @@
 {
-	"files":
-	{
-		"css": "https://raw.github.com/joshnh/Starter-Style-Sheet/master/Starter-Style-Sheet.css",
+    "files": {
+
+        "css": "https://raw.github.com/joshnh/Starter-Style-Sheet/master/Starter-Style-Sheet.css",
         "grid": "https://raw.github.com/joshnh/Get-Going-Grid/master/get-going-grid.css",
         "jquery": "http://code.jquery.com/jquery.min.js"
-	},
-	"packages":
-	{
-		"bedrock": "https://github.com/joshnh/Bedrock/zipball/master"
-	}
+    },
+        "packages": {
+
+            "bedrock": "https://github.com/joshnh/Bedrock/zipball/master"
+        }
 }

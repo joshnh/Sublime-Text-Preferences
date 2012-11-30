@@ -9,7 +9,7 @@ __[Default (OSX).sublime-keymap][1]__
 
 __[Fetch.sublime-settings][2]__
 
-* A list of the files and packages downloadable using Fetch
+* A list of the files and packages downloadable using [Fetch](http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/)
 
 __[Package Control.sublime-settings][3]__
 

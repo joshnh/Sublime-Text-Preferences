@@ -6,6 +6,7 @@ __[Default (OSX).sublime-keymap][1]__
 
 * Keyboard shortcuts to close projects or toggle between them
 * Keyboard shortcuts to move the cursor the the start or end of the current line
+* Keyboard shortcut to preview Markdown in the browser
 
 __[Fetch.sublime-settings][2]__
 

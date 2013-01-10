@@ -5,10 +5,13 @@
     "draw_minimap_border": true,
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
+    "fade_fold_buttons": false,
     "find_selected_text": true,
     "font_face": "Inconsolata",
     "font_size": 16,
     "highlight_line": true,
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
     "open_files_in_new_window": false,
     "rulers": [80],
     "scroll_past_end": true,
@@ -18,5 +21,5 @@
     "trim_trailing_white_space_on_save": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
     "word_wrap": true,
-	"wrap_width": 80
+    "wrap_width": 80
 }

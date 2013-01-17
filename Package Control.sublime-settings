@@ -15,6 +15,7 @@
         "Prefixr",
         "Sass",
         "SideBarEnhancements",
+    	"SublimeCodeIntel",
         "SublimeLinter"
     ]
 }

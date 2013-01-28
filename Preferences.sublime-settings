@@ -13,7 +13,7 @@
     "line_padding_bottom": 1,
     "line_padding_top": 1,
     "open_files_in_new_window": false,
-    "rulers": [80],
+    "rulers": [120],
     "scroll_past_end": true,
     "shift_tab_unindent": true,
     "tab_size": 4,
@@ -21,5 +21,5 @@
     "trim_trailing_white_space_on_save": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
     "word_wrap": true,
-    "wrap_width": 80
+    "wrap_width": 120
 }

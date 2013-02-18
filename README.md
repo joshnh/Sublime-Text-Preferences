@@ -1,26 +1,26 @@
 # Sublime Text 2 Preferences
 
-All settings are the _User_ version, as the _Default_ version gets overridden when updating.
+_All settings are the **User** version, as the **Default** version gets overridden when updating._
 
-__[Default (OSX).sublime-keymap][1]__
+__Keyboard Shortcuts: [Default (OSX).sublime-keymap][1]__
 
 * Keyboard shortcuts to close projects or toggle between them
 * Keyboard shortcuts to move the cursor the the start or end of the current line
 * Keyboard shortcut to preview Markdown in the browser
 
-__[Fetch.sublime-settings][2]__
+__Fetch Settings: [Fetch.sublime-settings][2]__
 
 * A list of the files and packages downloadable using [Fetch](http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/)
 
-__[Package Control.sublime-settings][3]__
+__Package Control Settings: [Package Control.sublime-settings][3]__
 
 * A list of the packages installed through [Package Control](http://wbond.net/sublime_packages/package_control)
 
-__[Preferences.sublime-settings][4]__
+__User Preferences: [Preferences.sublime-settings][4]__
 
 * A list of my personal Sublime Text preferences
 
-__[example.sublime-project][5]__
+__Project Template: [example.sublime-project][5]__
 
 * An example of a project setup, inluding what to ignore
 

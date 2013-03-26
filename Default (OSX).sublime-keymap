@@ -3,5 +3,6 @@
     { "keys": ["super+k", "super+o"], "command": "close_project" },
     { "keys": ["super+right"], "command": "move_to", "args": {"to": "hardeol"} },
     { "keys": ["super+left"], "command": "move_to", "args": {"to": "hardbol"} },
-    { "keys": ["super+k", "super+m"], "command": "markdown_preview", "args": {"target": "browser"} }
+    { "keys": ["super+k", "super+m"], "command": "markdown_preview", "args": {"target": "browser"} },
+    { "keys": ["super+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/convert_spaces_to_tabs.sublime-macro"} }
 ]

@@ -7,6 +7,8 @@ __Keyboard Shortcuts: [Default (OSX).sublime-keymap][1]__
 * Keyboard shortcuts to close projects or toggle between them
 * Keyboard shortcuts to move the cursor the the start or end of the current line
 * Keyboard shortcut to preview Markdown in the browser
+* Keyboard shortcut to convert spaces to tabs
+* Keuboard shortcut to refresh the current browser window
 
 __Fetch Settings: [Fetch.sublime-settings][2]__
 

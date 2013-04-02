@@ -1,8 +1,27 @@
 [
     { "keys": ["super+k", "super+p"], "command": "prompt_select_project" },
     { "keys": ["super+k", "super+o"], "command": "close_project" },
-    { "keys": ["super+right"], "command": "move_to", "args": {"to": "hardeol"} },
-    { "keys": ["super+left"], "command": "move_to", "args": {"to": "hardbol"} },
-    { "keys": ["super+k", "super+m"], "command": "markdown_preview", "args": {"target": "browser"} },
-    { "keys": ["super+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/convert_spaces_to_tabs.sublime-macro"} }
+    { "keys": ["super+right"], "command": "move_to", "args": {
+            "to": "hardeol"
+        }
+    },
+    { "keys": ["super+left"], "command": "move_to", "args": {
+            "to": "hardbol"
+        }
+    },
+    { "keys": ["super+k", "super+m"], "command": "markdown_preview", "args": {
+            "target": "browser"
+        }
+    },
+    { "keys": ["super+shift+x"], "command": "run_macro_file", "args": {
+            "file": "Packages/User/convert_spaces_to_tabs.sublime-macro"
+        }
+    },
+    { "keys": ["command+shift+r"],"command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.0,
+            "activate_browser": true,
+            "browser_name" : "all"
+        }
+    }
 ]

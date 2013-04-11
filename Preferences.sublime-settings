@@ -1,7 +1,7 @@
 {
     "bold_folder_labels": true,
     "caret_style": "phase",
-    "color_scheme": "Packages/Dayle Rees Color Schemes/Mellow.tmTheme",
+    "color_scheme": "Packages/Theme - Flatland/Flatland.tmtheme",
     "draw_minimap_border": true,
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
@@ -17,6 +17,7 @@
     "scroll_past_end": true,
     "shift_tab_unindent": true,
     "tab_size": 4,
+    "theme": "Flatland.sublime-theme",
     "trim_trailing_white_space_on_save": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
     "word_wrap": true,

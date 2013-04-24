@@ -5,6 +5,7 @@
     { "keys": ["super+left"], "command": "move_to", "args": { "to": "hardbol" } },
     { "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" },
     { "keys": ["super+k", "super+m"], "command": "markdown_preview", "args": { "target": "browser" } },
+    { "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
     { "keys": ["super+shift+x"], "command": "run_macro_file", "args": { "file": "Packages/User/convert_spaces_to_tabs.sublime-macro" } },
     { "keys": ["command+shift+r"],"command": "browser_refresh", "args": { "auto_save": true, "delay": 0.0, "activate_browser": true, "browser_name" : "Google Chrome" } }
 ]

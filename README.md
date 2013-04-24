@@ -8,8 +8,9 @@ __Keyboard Shortcuts: [Default (OSX).sublime-keymap][1]__
 * Keyboard shortcuts to move the cursor the the start or end of the current line
 * Keyboard shortcut to reveal the current file in the sidebar
 * Keyboard shortcut to preview Markdown in the browser
+* Keyboard shortcut to reindent selected text
 * Keyboard shortcut to convert spaces to tabs
-* Keuboard shortcut to refresh the current browser window (using [Browser Refresh](https://github.com/gcollazo/BrowserRefresh-Sublime))
+* Keyboard shortcut to refresh the current browser window (using [Browser Refresh](https://github.com/gcollazo/BrowserRefresh-Sublime))
 
 __Fetch Settings: [Fetch.sublime-settings][2]__
 

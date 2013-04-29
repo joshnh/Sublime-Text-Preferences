@@ -17,7 +17,7 @@
     "scroll_past_end": true,
     "shift_tab_unindent": true,
     "tab_size": 4,
-    "theme": "Flatland.sublime-theme",
+    "theme": "Flatland Dark.sublime-theme",
     "trim_trailing_white_space_on_save": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
     "word_wrap": true,

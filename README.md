@@ -11,7 +11,7 @@ __Keyboard Shortcuts: [Default (OSX).sublime-keymap][1]__
 * Keyboard shortcut to reindent selected text
 * Keyboard shortcut to convert spaces to tabs
 * Keyboard shortcut to refresh the current browser window (using [Browser Refresh](https://github.com/gcollazo/BrowserRefresh-Sublime))
-* Keyboard shortcut to open the current file in the browser (using [SideBarEnhancement](https://github.com/titoBouzout/SideBarEnhancements))
+* Keyboard shortcut to open the current file in the browser (using [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements))
 
 __Fetch Settings: [Fetch.sublime-settings][2]__
 

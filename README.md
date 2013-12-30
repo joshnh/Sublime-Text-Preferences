@@ -13,10 +13,6 @@ __Keyboard Shortcuts: [Default (OSX).sublime-keymap][1]__
 * Keyboard shortcut to refresh the current browser window (using [Browser Refresh](https://github.com/gcollazo/BrowserRefresh-Sublime))
 * Keyboard shortcut to open the current file in the browser (using [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements))
 
-__Fetch Settings: [Fetch.sublime-settings][2]__
-
-* A list of the files and packages downloadable using [Fetch](http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/)
-
 __Package Control Settings: [Package Control.sublime-settings][3]__
 
 * A list of the packages installed through [Package Control](http://wbond.net/sublime_packages/package_control)

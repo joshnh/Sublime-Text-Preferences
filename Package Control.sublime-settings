@@ -1,21 +1,14 @@
 {
-    "installed_packages": [
-
-        "Browser Refresh",
-        "CSS Snippets",
-        "Dayle Rees Color Schemes",
-        "Emmet",
-        "GitGutter",
-        "HTML Snippets",
-        "Markdown Preview",
-        "Minifier",
-        "Nettuts+ Fetch",
-        "Package Control",
-        "Prefixr",
-        "Sass",
-        "SideBarEnhancements",
-        "SublimeCodeIntel",
-        "SublimeLinter",
-        "Theme - Soda"
-    ]
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"CSS Snippets",
+		"GitGutter",
+		"HTML Snippets",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Theme - Soda"
+	]
 }

@@ -4,14 +4,7 @@ _All settings are the **User** version, as the **Default** version gets overridd
 
 __Keyboard Shortcuts: [Default (OSX).sublime-keymap][1]__
 
-* Keyboard shortcuts to close projects and toggle between them
-* Keyboard shortcuts to move the cursor the the start or end of the current line
 * Keyboard shortcut to reveal the current file in the sidebar
-* Keyboard shortcut to preview Markdown in the browser
-* Keyboard shortcut to reindent selected text
-* Keyboard shortcut to convert spaces to tabs
-* Keyboard shortcut to refresh the current browser window (using [Browser Refresh](https://github.com/gcollazo/BrowserRefresh-Sublime))
-* Keyboard shortcut to open the current file in the browser (using [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements))
 
 __Package Control Settings: [Package Control.sublime-settings][3]__
 

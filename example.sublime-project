@@ -1,8 +1,10 @@
 {
-    "folders": [{
-
-        "path": "path/to/site",
-        "folder_exclude_patterns": ["images", "css/fonts"],
-        "file_exclude_patterns": ["*.ico"]
-    }]
+    "folders":
+    [
+        {
+            "path": "path/to/site",
+            "folder_exclude_patterns": ["images", "css/fonts"],
+            "file_exclude_patterns": ["*.ico"]
+        }
+    ]
 }

@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Autoprefixer",
 		"Base16 Color Schemes",
 		"CSS Snippets",
 		"Dayle Rees Color Schemes",

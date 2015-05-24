@@ -28,5 +28,9 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 120,
+	
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"highlight_modified_tabs": true,
 }

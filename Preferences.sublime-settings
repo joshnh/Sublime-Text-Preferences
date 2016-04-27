@@ -1,4 +1,5 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Tomorrow Night Color Scheme/Tomorrow-Night-Eighties.tmTheme",
 	"detect_indentation": false,
@@ -7,7 +8,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"find_selected_text": true,
-	"font_face": "Inconsolata",
+	"font_face": "Input Mono",
 	"font_size": 16.0,
 	"highlight_line": true,
 	"ignored_packages":
@@ -18,15 +19,11 @@
 	"line_padding_top": 1,
 	"margin": -1,
 	"open_files_in_new_window": false,
-	"rulers":
-	[
-		120
-	],
 	"shift_tab_unindent": true,
 	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 100
 }
